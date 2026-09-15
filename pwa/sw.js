@@ -1,4 +1,4 @@
-const CACHE = 'dansekart-web-v3';
+const CACHE = 'dansekart-web-v4';
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
